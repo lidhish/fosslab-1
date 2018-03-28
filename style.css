@@ -1,0 +1,18 @@
+body{
+	background: url(../img/Kotta-Th.gif);
+	background-size: cover;
+}		
+h1{
+	color: black;
+	text-align: center;
+	font-size: 50px;
+	font-family:" sans-serif";
+	font-style: italic;
+}
+p1{
+	font-size: 30px;
+	color: #FF3D07;
+	font-style: oblique;
+	
+	
+}
